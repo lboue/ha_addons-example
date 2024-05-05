@@ -1,0 +1,4 @@
+configuration:
+  message:
+    name: Message
+    description: Le message qui sera imprimé dans le journal lors du démarrage de cet exemple de module complémentaire.
